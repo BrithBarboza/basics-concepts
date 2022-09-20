@@ -12,7 +12,7 @@ Para instalar NVM en el ordenar se deben seguir los siguientes pasos:
 zsh: command not found: nvm
 ```
 
-* Para instalarlo debemos de ejecutar la línea de código que se encuentra en el repositorio oficial de [NVM] (https://github.com/nvm-sh/nvm)
+* Para instalarlo debemos de ejecutar la línea de código que se encuentra en el repositorio oficial de [NVM](https://github.com/nvm-sh/nvm)
 ```sh
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 ```
