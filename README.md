@@ -39,6 +39,3 @@ nvm
 * Versión de NVM -> `nvm --version`
 * Versión de NVM -> `nvm --version`
 * Versión de NVM -> `nvm --version`
-
-## 📍1. NVM
-
