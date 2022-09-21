@@ -9,7 +9,7 @@ Cuando puedes acceder a una variable únicamente **en cierta parte del código**
 #### Scope de función
 * Accesibles dentro de toda la función, pero no fuera de la misma.
 * Variables declaradas con `var`.
-#### Scope de función
+#### Scope de bloque
 * Bloque: porción de código encerrado entre llaves `{}`.
 * Accesibles dentro de todo el bloque, pero no fuera del mismo.
 * Variables declaradas con `let` o `const`.
