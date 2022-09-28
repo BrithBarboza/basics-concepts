@@ -45,7 +45,7 @@ function filterByProductsWithOffers(products) {
 }
 ```
 
-**Dato:** eL Hosting también surge efecto en funciones.
+**Dato:** El Hosting también surge efecto en funciones.
 
 ## 📍2. Contexto de ejecusión
 
